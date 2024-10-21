@@ -1,5 +1,4 @@
-# 💫 About Me:
-🚀 Aspiring Techie | Proud Sainik School Alumni 🇮🇳 | Daydreamer 🌟 | Chai Lover ☕ <br><br>🎉 Welcome to my world of quirks and quests! If life were a video game, I'd be the one chasing after rare power-ups, cracking witty one-liners, and adding a dash of desi charm to every level.<br><br>🌟 With a background from the hallowed halls of Sainik School 🎓, I've honed my discipline, determination, and a deep sense of patriotism. Now, I'm on a mission to conquer new frontiers in tech while wearing my love for India on my sleeve.<br><br>💡 When I'm not decoding tech puzzles or reading a novel , I'm exploring cultural wonders, and dreaming of a world where dragons roam free.<br><br>🔮 Let's connect and embark on this whimsical journey together, celebrating the magic of India 🇮🇳, innovation, and imagination. Whether you're a fellow adventurer or just up for a good chat, I'm always open to new connections and interesting conversations. 🚀<br><br> #Indian #ProudSaikilian #TechEnthusiast #ChaiLover
+Yello!!! I am Advaith and you my friend have mistakenly ended up on the wrong side of github. 😂
 
 
 ## 🌐 Socials:
@@ -15,10 +14,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Advaith35&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
